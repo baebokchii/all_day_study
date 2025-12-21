@@ -1,8 +1,8 @@
-# Self Learning: Machine Learning & Deep Learning
+# All Day Study: Machine Learning & Deep Learning
 
 ## 1. Project Overview
 
-This repository, titled self_learning, documents my individual study of the book “혼자 공부하는 머신러닝 + 딥러닝 (Self-Study Machine Learning & Deep Learning)”.
+This repository, titled all_day_study , documents my individual study of the book “혼자 공부하는 머신러닝 + 딥러닝 (Self-Study Machine Learning & Deep Learning)”.
 It serves both as a record of my learning process and as a reproducible notebook series that demonstrates core ML/DL concepts through Python code.
 
 Each notebook in this repository corresponds to a specific chapter or concept from the book, with additional annotations, experiment logs, and reflections for deeper understanding.
