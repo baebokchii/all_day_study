@@ -1,1 +1,1 @@
-# All Day Study
+# Self Study Log
